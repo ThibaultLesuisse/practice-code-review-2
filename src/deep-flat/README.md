@@ -1,7 +1,6 @@
 # Deep-Flat
 
 Write a function that flattens nested arrays into a single array with no nesting
-
 ---
 
 ## Docstring
